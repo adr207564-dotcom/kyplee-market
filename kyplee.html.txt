@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>KYPLE MARKET</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body style="font-family: Arial; text-align:center; margin:0;">
+
+  <h1>KYPLE MARKET 📱</h1>
+  <p>Jual iPhone Original & Mulus</p>
+  <p>COD Sumedang | Amanah</p>
+
+  <a href="https://wa.me/6282115672357">
+    <button style="padding:15px; font-size:16px;">
+      Chat WhatsApp
+    </button>
+  </a>
+
+  <hr>
+
+  <h2>Produk</h2>
+
+  <p>iPhone 11 128GB</p>
+  <p>Mulus • No Minus</p>
+  <p>Rp 4.200.000</p>
+
+  <a href="https://wa.me/6282115672357">
+    <button>Beli Sekarang</button>
+  </a>
+
+  <hr>
+
+  <h2>Kenapa Beli di Sini?</h2>
+  <p>✔️ 100% Original</p>
+  <p>✔️ Bisa COD</p>
+  <p>✔️ Testimoni Banyak</p>
+
+  <hr>
+
+  <h2>Stok Terbatas!</h2>
+  <a href="https://wa.me/6282115672357">
+    <button>Order Sekarang</button>
+  </a>
+
+</body>
+</html>
